@@ -91,9 +91,8 @@ concurrency, and maintainable codebases.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Hyoor**](https://hyoor.am) | Digital invitation platform, live in production — built and maintained solo, from the animated invitation renderer through to internal order tooling | Next.js 16 · React 19 · SCSS · Framer Motion · Firebase |
+| [**Hyoor**](https://hyoor.am) | Digital invitation platform, live in production — built and maintained solo, from the animated invitation renderer through to internal order tooling | Next.js 16 · React 19 |
 | [**Aldoro Jewellery**](https://aldoro.am) | Jewellery house catalogue and customer portal, live in production — categorised collections, search, accounts and favourites, plus custom-order and repair enquiry flows. Migrated from Create React App to the Next.js App Router | Next.js 14 · React 18 · MUI · next-intl |
-| [**arta-consulting**](https://github.com/AkselAvetisyan/arta-consulting) | Marketing site with a translation-driven content layer and scroll-reveal animations | Next.js 15 · React 19 |
 
 > Commercial work is delivered on proprietary codebases; no client source code or confidential
 > material is published here.
