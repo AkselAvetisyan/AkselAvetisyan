@@ -30,12 +30,14 @@ concurrency, and maintainable codebases.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apple/A2AAAD" alt="Apple" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React / React Native" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" alt="React Native" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="48" height="48" />&nbsp;&nbsp;
+  <img src="assets/chatgpt.svg" alt="ChatGPT" width="48" height="48" />
 </p>
 
 | | |
@@ -46,6 +48,7 @@ concurrency, and maintainable codebases.
 | **Networking & Data** | REST APIs · GraphQL (Apollo Client / Server) · Firebase · Realm |
 | **Testing** | XCTest · Quick · Nimble |
 | **Web** | JavaScript · React · Next.js (App Router) · Angular · SCSS |
+| **Cross-platform** | React Native · Expo |
 | **CS Fundamentals** | Data structures & algorithms (array, linked list, tree, hash table) · time & space complexity analysis |
 | **Process** | Agile & Scrum · code review best practices · technical mentoring |
 
