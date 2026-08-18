@@ -104,15 +104,6 @@ concurrency, and maintainable codebases.
   include_all_commits=true actually reflect your private work.
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkselAvetisyan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkselAvetisyan&theme=tokyonight&hide_border=true" alt="streak" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkselAvetisyan&layout=compact&count_private=true&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Homework,Homework2,Homework3,homework4,homework5,homework6,homework-10,homework11,test,to-do-list,tetris,carousel-slider,certificate,Aksel98.github.io" alt="top languages" />
-</p>
-
 ---
 
 ## 🎓 Education & Languages
