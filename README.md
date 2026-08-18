@@ -79,6 +79,16 @@ concurrency, and maintainable codebases.
 
 ## 🚀 Projects
 
+### iOS
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Connected-car app for a globally recognised automotive brand** | Companion app for vehicle owners — remote vehicle features, telematics, and dealer and service tools, delivered from a shared codebase across several regional markets | Swift · SwiftUI · UIKit · Combine · GraphQL (Apollo) · Widgets · SiriKit · Shortcuts |
+| **Beyondo** | A social sports platform for sports enthusiasts to connect, share, and experience sports together. Users capture and share sports moments, watch live and recorded video content, interact through comments, and engage with a community centred around sport | Swift · AVFoundation · live-streaming · in-app chat |
+| **Workdone** | A productivity and task management app for staying focused and getting things done. Combines task tracking with focus tools, including app-blocking that can restrict distracting apps based on task completion, helping users build better habits | Swift · iOS |
+
+### Web
+
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Hyoor**](https://hyoor.am) | Digital invitation platform, live in production — built and maintained solo, from the animated invitation renderer through to internal order tooling | Next.js 16 · React 19 · SCSS · Framer Motion · Firebase |
@@ -100,13 +110,7 @@ only a small part of it. Measured directly from the codebases I work in (2023 �
 | **3,100+** | commits authored across production codebases |
 | **580+** | pull requests merged in commercial repositories |
 | **43** | public pull requests on GitHub |
-| **5** | production applications built or actively maintained |
-
-**Where that work sits**
-
-- **Automotive iOS app** — 778 commits and 196 merged pull requests, on a codebase of 11,000+ commits and 78 contributors
-- **Hyoor** — 2,077 commits and 297 merged pull requests as sole developer, across both generations of the platform
-- **Aldoro Jewellery** — 294 commits and 88 merged pull requests, including the Create React App → Next.js migration
+| **6** | production applications built or actively maintained |
 
 ---
 
