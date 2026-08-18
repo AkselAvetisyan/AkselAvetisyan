@@ -93,6 +93,7 @@ concurrency, and maintainable codebases.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Hyoor**](https://hyoor.am) | Digital invitation platform, live in production — built and maintained solo, from the animated invitation renderer through to internal order tooling | Next.js 16 · React 19 · SCSS · Framer Motion · Firebase |
+| [**Aldoro Jewellery**](https://aldoro.am) | Jewellery house catalogue and customer portal, live in production — categorised collections, search, accounts and favourites, plus custom-order and repair enquiry flows. Migrated from Create React App to the Next.js App Router | Next.js 14 · React 18 · MUI · next-intl |
 | [**EmergencyContacts**](https://github.com/AkselAvetisyan/EmergencyContacts) | Emergency contact manager — MVVM with protocol-injected services and unit-tested view models | SwiftUI · XCTest |
 | [**CarsApp**](https://github.com/AkselAvetisyan/CarsApp) | Vehicle dashboard with lock/engine controls behind a repository data layer | SwiftUI · MVVM · XCTest |
 | [**UsersApp**](https://github.com/AkselAvetisyan/UsersApp) | Paginated user directory with offline persistence and local/remote search | UIKit · Realm |
