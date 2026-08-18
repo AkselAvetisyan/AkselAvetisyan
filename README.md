@@ -8,8 +8,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aksel-avetisyan/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://hyoor.am"><img src="https://img.shields.io/badge/HYOOR.AM-0A84FF?style=for-the-badge&logo=safari&logoColor=white" alt="Hyoor" /></a>
-  <img src="https://img.shields.io/badge/Yerevan,%20Armenia-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
@@ -25,7 +23,7 @@ concurrency, and maintainable codebases.
 - ⚡ Modern concurrency — **async/await**, **GCD**, **OperationQueue**, **Combine**.
 - 👥 Technical leadership: mentoring developers, driving architectural decisions, and serving as technical mentor for **two internship programs**.
 - 🎥 Deep media experience — live-streaming, video recording, playback, editing and exporting with **AVFoundation**.
-- 🌐 Beyond mobile: I build and ship full products with **Next.js** and **React** — [Hyoor](https://hyoor.am) is mine end to end.
+- 🌐 Beyond mobile: I build and ship full products with **Next.js** and **React**
 - 🌱 Currently going deeper on **backend & databases** and **AI / LLM application development**.
 
 ---
@@ -35,17 +33,12 @@ concurrency, and maintainable codebases.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/apple/A2AAAD" alt="Apple" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Xcode" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" alt="Apollo" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React / React Native" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="48" height="48" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" width="48" height="48" />
 </p>
 
@@ -91,9 +84,6 @@ concurrency, and maintainable codebases.
 | --- | --- | --- |
 | [**Hyoor**](https://hyoor.am) | Digital invitation platform, live in production — built and maintained solo, from the animated invitation renderer through to internal order tooling | Next.js 16 · React 19 · SCSS · Framer Motion · Firebase |
 | [**Aldoro Jewellery**](https://aldoro.am) | Jewellery house catalogue and customer portal, live in production — categorised collections, search, accounts and favourites, plus custom-order and repair enquiry flows. Migrated from Create React App to the Next.js App Router | Next.js 14 · React 18 · MUI · next-intl |
-| [**EmergencyContacts**](https://github.com/AkselAvetisyan/EmergencyContacts) | Emergency contact manager — MVVM with protocol-injected services and unit-tested view models | SwiftUI · XCTest |
-| [**CarsApp**](https://github.com/AkselAvetisyan/CarsApp) | Vehicle dashboard with lock/engine controls behind a repository data layer | SwiftUI · MVVM · XCTest |
-| [**UsersApp**](https://github.com/AkselAvetisyan/UsersApp) | Paginated user directory with offline persistence and local/remote search | UIKit · Realm |
 | [**arta-consulting**](https://github.com/AkselAvetisyan/arta-consulting) | Marketing site with a translation-driven content layer and scroll-reveal animations | Next.js 15 · React 19 |
 
 > Commercial work is delivered on proprietary codebases; no client source code or confidential
