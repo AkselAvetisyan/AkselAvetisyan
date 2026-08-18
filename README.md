@@ -104,6 +104,11 @@ concurrency, and maintainable codebases.
   include_all_commits=true actually reflect your private work.
 -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkselAvetisyan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkselAvetisyan&theme=tokyonight&hide_border=true" alt="streak" height="200" />
+</p>
+
 ---
 
 ## 🎓 Education & Languages
