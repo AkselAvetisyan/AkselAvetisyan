@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkselAvetisyan&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/aksel-avetisyan/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
