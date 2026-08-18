@@ -14,7 +14,7 @@
 mobile applications for global products. Strong focus on clean architecture, modern Swift
 concurrency, and maintainable codebases.
 
-- 🚗 Currently leading development of core features in a mobile application for a globally recognised automotive brand.
+- 🚗 Currently developing core features for a mobile application for a globally recognized automotive brand.
 - 🧱 Architecture-first: **MVVM**, **MVI**, **MVC**, **Clean Architecture**, modular and reusable design.
 - ⚡ Modern concurrency — **async/await**, **GCD**, **OperationQueue**, **Combine**.
 - 👥 Technical leadership: mentoring developers, driving architectural decisions, and serving as technical mentor for **two internship programs**.
