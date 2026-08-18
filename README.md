@@ -90,24 +90,23 @@ concurrency, and maintainable codebases.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-<!--
-  NOTE: the shared github-readme-stats instance below is frequently rate-limited and was
-  returning HTTP 503 when this README was written, which renders these two cards as broken
-  images. The streak card is served separately and works.
+Most of my work lives in private client repositories, so the public contribution graph reflects
+only a small part of it. Measured directly from the codebases I work in (2023 – present):
 
-  To make them reliable, deploy your own instance (this is what most profiles using these
-  cards do) and swap the two "github-readme-stats.vercel.app" hosts for your own URL:
-      https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  Add a PAT as the GH_TOKEN env var on your deployment to make count_private=true and
-  include_all_commits=true actually reflect your private work.
--->
+| | |
+| --- | --- |
+| **3,100+** | commits authored across production codebases |
+| **580+** | pull requests merged in commercial repositories |
+| **43** | public pull requests on GitHub |
+| **5** | production applications built or actively maintained |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkselAvetisyan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkselAvetisyan&theme=tokyonight&hide_border=true" alt="streak" height="200" />
-</p>
+**Where that work sits**
+
+- **Automotive iOS app** — 778 commits and 196 merged pull requests, on a codebase of 11,000+ commits and 78 contributors
+- **Hyoor** — 2,077 commits and 297 merged pull requests as sole developer, across both generations of the platform
+- **Aldoro Jewellery** — 294 commits and 88 merged pull requests, including the Create React App → Next.js migration
 
 ---
 
