@@ -16,8 +16,6 @@
 
 ## 🧑‍💻 About Me
 
-<img src="assets/profile.jpg" align="right" width="220" alt="Aksel Avetisyan" />
-
 **Senior iOS Developer** with **5+ years** of experience building scalable, high-performance
 mobile applications for global products. Strong focus on clean architecture, modern Swift
 concurrency, and maintainable codebases.
@@ -43,7 +41,6 @@ concurrency, and maintainable codebases.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React / React Native" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />&nbsp;&nbsp;
@@ -59,7 +56,7 @@ concurrency, and maintainable codebases.
 | **Architecture** | MVVM · MVI · MVC · Clean Architecture · modular & reusable design · performance optimisation & refactoring |
 | **Networking & Data** | REST APIs · GraphQL (Apollo Client / Server) · Firebase · Realm |
 | **Testing** | XCTest · Quick · Nimble |
-| **Web** | JavaScript · TypeScript · React · Next.js (App Router) · Angular · SCSS |
+| **Web** | JavaScript · React · Next.js (App Router) · Angular · SCSS |
 | **CS Fundamentals** | Data structures & algorithms (array, linked list, tree, hash table) · time & space complexity analysis |
 | **Process** | Agile & Scrum · code review best practices · technical mentoring |
 
