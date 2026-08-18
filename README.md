@@ -16,6 +16,8 @@
 
 ## 🧑‍💻 About Me
 
+<img src="assets/profile.jpg" align="right" width="220" alt="Aksel Avetisyan" />
+
 **Senior iOS Developer** with **5+ years** of experience building scalable, high-performance
 mobile applications for global products. Strong focus on clean architecture, modern Swift
 concurrency, and maintainable codebases.
